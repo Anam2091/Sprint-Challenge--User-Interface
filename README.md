@@ -34,13 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic Html is language the webpage and computer actually understands. For example, if we use <p> for paragraph in our code it represents "paragraph" in computer language. Essentially, its a way to communicate to the computer and website so it understands in computer language what exactly we are trying to translate. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display:block takes up full width with a new line before and after. Disaply:inline takes only as much width as it needs and doesnt force new lines. Next difference is that display:block would have elements that are vertical vs display:inline would have elements which are horizontal. 
 
 3. What are the 4 areas of the box model?
 
+content area, padding, margin, border.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross axis
+
+
+
 5. Explain why git is valuable to a team of developers.
+
+It is valuable because if everyone is assigned different tasks on a team, each member can work to complete their task and upload it on git. From there, any member of the team can go check it out, collaborate, and review it. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
