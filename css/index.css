@@ -187,3 +187,10 @@ nav{
 .box10{
     background:dodgerblue!important;
 }
+
+.skyscrapper{
+    margin-bottom: 40px;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%
+}
