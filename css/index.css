@@ -194,3 +194,17 @@ nav{
     margin-right:auto;
     width:100%
 }
+hr{
+    border-top:dashed 1px;
+    margin-bottom:20px;
+    margin-top:20px
+
+}
+.border{
+    display:flex;
+
+
+}
+.lets{
+    margin-top:50px;
+}
